@@ -23,14 +23,14 @@ The kit given to the students should include the following:
 # Assembly Instructions for Students
 The instructions given to the students in the rail kit are as follows:
 
-1. The support material is the thin material on the side of the rail. This can be discarded.Remove the support material from the rail. This can be done using pliers, a flathead screwdriver, or anything on hand.<br>
-2a.	Remove the top washer from the tuner by twisting it counter-clockwise. <br>
-2b. Insert the tuner into the bottom of the holes on the opposite side of the rail with the bridge. <br>
-2c. Secure it with the top by inserting it back on the tuner and twisting clockwise. Do this for both tuners.<br>
-3. String the rail by placing the strings through the holes on the rail until the ball end of the guitar string rests on the back of the bridge.<br>
-4a.	Insert the string all the way into the hole in the tuner and twist the string around the metal part. <br>
-4b. Twist the knob on the tuner clockwise until the string experiences some tension; this locks the string in place. Do this for both strings.<br>
-5. Feel free to use any tuner application to experiment with what notes are being played by either string! Free tuner apps include Pitchlab, Pano Tuner, and Martin Tuner.
+1.The support material is the thin material on the side of the rail. This can be discarded.Remove the support material from the rail. This can be done using pliers, a flathead screwdriver, or anything on hand.<br>
+2a.Remove the top washer from the tuner by twisting it counter-clockwise. <br>
+2b.Insert the tuner into the bottom of the holes on the opposite side of the rail with the bridge. <br>
+2c.Secure it with the top by inserting it back on the tuner and twisting clockwise. Do this for both tuners.<br>
+3.String the rail by placing the strings through the holes on the rail until the ball end of the guitar string rests on the back of the bridge.<br>
+4a.Insert the string all the way into the hole in the tuner and twist the string around the metal part. <br>
+4b.Twist the knob on the tuner clockwise until the string experiences some tension; this locks the string in place. Do this for both strings.<br>
+5.Feel free to use any tuner application to experiment with what notes are being played by either string! Free tuner apps include Pitchlab, Pano Tuner, and Martin Tuner.
 
 # Instructions for Teachers Supervising Printing the 3D Rails
 In most cases, you can download the Rail .gcode file from our repository and upload that to your 3D printer software; we used https://www.3dprinteros.com to interface with a LulzBot TAZ 6 printer for the first batch of rails, printing at 10% infill. <br>
