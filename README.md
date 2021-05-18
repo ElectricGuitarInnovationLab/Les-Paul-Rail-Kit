@@ -42,4 +42,4 @@ Alternately, if you'd like to involve students in the 3D printing process:<br>
 <b>5.</b> Finally, once the slice has been created and saved, it can be sent to the printer.
 
 # Other Considerations
-Models can be printed in many different filament colors; for EGIL's Les Paul Music Tech Camp @ WPI, we've used a vaiety of different colors including glow-in-the-dark filament! The 3D-printed Rail can be a useful musical instrument, and allowing students to choose their own color can help them personalize their instrument. Additionally, with some effort, the .stl file we've provided can be modified to allow students to etch their name into one side. 
+Our Rail Kit models can be printed in many different filament colors; for EGIL's Les Paul Music Tech Camp @ WPI, we've used a vaiety of different colors including glow-in-the-dark filament! The 3D-printed Rail can be a useful musical instrument, and allowing students to choose their own color can help them personalize their instrument. Additionally, with some effort, the .stl file we've provided can be modified to allow students to etch their name into one side. 
