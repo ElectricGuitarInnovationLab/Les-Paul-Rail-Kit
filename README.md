@@ -10,11 +10,11 @@ The Les Paul Rail kit was inspired by an experiment Les Paul conducted in his yo
 The goal of this project was to create a "Rail Kit" for Professor Manzo’s <b>Les Paul: Experiencing Innovation Summer Camp</b> where students could create their own rail-type musical instrument. Our kit contains a 3D printable rail that allows the camp students to learn about the timbre by comparing 3D printing filaments to the existing rail, string tuning and tension, how to 3D-print using a 3D model, and how 3D printing differs from machining. Students assemble the kit themselves and use it in their own music-making! Additional activities in the camp that accompany this one include the creation of a simple pickup and an amplifier. 
 
 # The Rail Kit
-The kit given to the students should include the following:
-<b>1.</b> 3D-Printed Rail (model included in kit; use with any 3D-printer)<br>
-<b>2.</b> 2 Tuners from a set of Sperzel All-Long-Post Six-in-line locking guitar tuners with standard buttons (any color) http://www.sperzel.com/ <br>
-<b>3.</b>  2 guitar strings from a set of standard electric guitar strings; 1 and 6 strings from a set of D'Addario XL110 strings used https://www.daddario.com/products/guitar/electric-guitar/xl-nickel/exl110-nickel-wound-regular-light-10-46/<br>
-<b>4.</b>  Assembly instructions for students (below)<br>
+Each kit given to the students should include the following components:<br>
+<b>1.</b> one 3D-Printed Rail (model included in kit; use with any 3D-printer)<br>
+<b>2.</b> Two tuners from a set of Sperzel All-Long-Post Six-in-line locking guitar tuners with standard buttons (any color) http://www.sperzel.com/ <br>
+<b>3.</b>  Two guitar strings from a set of standard electric guitar strings; 1 and 6 strings from a set of D'Addario XL110 strings used https://www.daddario.com/products/guitar/electric-guitar/xl-nickel/exl110-nickel-wound-regular-light-10-46/<br>
+<b>4.</b>  one set of Assembly Instructions for Students (below)<br>
 
 # Assembly Instructions for Students
 The instructions given to the students in the rail kit are as follows:
