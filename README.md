@@ -12,17 +12,15 @@ The goal of this project was to create a "Rail Kit" for Professor Manzo’s <b>L
 # The Rail Kit
 Each kit given to the students should include the following components:<br>
 <b>1.</b> one 3D-Printed Rail (model included in kit; use with any 3D-printer)<br>
-<b>2.</b> Two tuners from a set of Sperzel All-Long-Post Six-in-line locking guitar tuners with standard buttons (any color) http://www.sperzel.com/ <br>
-<b>3.</b>  Two guitar strings from a set of standard electric guitar strings; 1 and 6 strings from a set of D'Addario XL110 strings used https://www.daddario.com/products/guitar/electric-guitar/xl-nickel/exl110-nickel-wound-regular-light-10-46/<br>
+<b>2.</b> two tuners from a set of Sperzel All-Long-Post Six-in-line locking guitar tuners with standard buttons (any color) http://www.sperzel.com/ <br>
+<b>3.</b>  two guitar strings from a set of standard electric guitar strings; 1 and 6 strings from a set of D'Addario XL110 strings used https://www.daddario.com/products/guitar/electric-guitar/xl-nickel/exl110-nickel-wound-regular-light-10-46/<br>
 <b>4.</b>  one set of Assembly Instructions for Students (below)<br>
 
 # Assembly Instructions for Students
-The instructions given to the students in the rail kit are as follows:
-
-<b>1.</b> The support material is the thin material on the side of the rail. This can be discarded.Remove the support material from the rail. This can be done using pliers, a flathead screwdriver, or anything on hand.<br>
-<b>2a.</b> Remove the top washer from the tuner by twisting it counter-clockwise. <br>
-<b>2b.</b> Insert the tuner into the bottom of the holes on the opposite side of the rail with the bridge. <br>
-<b>2c.</b> Secure it with the top by inserting it back on the tuner and twisting clockwise. Do this for both tuners.<br>
+<b>1.</b> Remove any 3D-printed support material from the rail; that is, the thin, flimsy material on the side of the rail. This can be done using pliers, a flathead screwdriver, a file, sandpaper, or anything on hand.<br>
+<b>2a.</b> Take a tuner and remove the top washer from it by twisting it counter-clockwise. <br>
+<b>2b.</b> Insert the tuner into the bottom of one hole on the opposite side of the rail with the bridge. <br>
+<b>2c.</b> Secure the washer with the top of the tuner by inserting it back on the tuner and twisting clockwise. Do this for both tuners.<br>
 <b>3.</b> String the rail by placing the strings through the holes on the rail until the ball end of the guitar string rests on the back of the bridge.<br>
 <b>4a.</b> Insert the string all the way into the hole in the tuner and twist the string around the metal part. <br>
 <b>4b.</b> Twist the knob on the tuner clockwise until the string experiences some tension; this locks the string in place. Do this for both strings.<br>
