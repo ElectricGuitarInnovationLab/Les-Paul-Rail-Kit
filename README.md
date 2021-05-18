@@ -36,10 +36,10 @@ The instructions given to the students in the rail kit are as follows:
 In most cases, you can download the Rail .gcode file from our repository and upload that to your 3D printer software; we used https://www.3dprinteros.com to interface with a LulzBot TAZ 6 printer for the first batch of rails, printing at 10% infill. <br>
 
 Alternately, if you'd like to involve students in the 3D printing process:<br>
-<b>1.</b> Upload the Rail .stl file to https://www.3dprinteros.com (or other 3D printer software)
-<b>3.</b> Adjust the layout of the model so that it optimally fits within the printer.
-<b>4.</b> Once the layout has been finalized, select the <em>Slice</em> button to adjust the slice settings. We found 10% infill and 1mm wall thickness gave a good tradeoff between print resolution, stability, and print time.
-<b>5.</b> Finally, once the slice has been created and saved, it can be sent to the printer.
+<b>1.</b> Upload the Rail .stl file to https://www.3dprinteros.com (or other 3D printer software) <br>
+<b>3.</b> Adjust the layout of the model so that it optimally fits within the printer. <br>
+<b>4.</b> Once the layout has been finalized, select the <em>Slice</em> button to adjust the slice settings. We found 10% infill and 1mm wall thickness gave a good tradeoff between print resolution, stability, and print time. <br>
+<b>5.</b> Finally, once the slice has been created and saved, it can be sent to the printer. <br>
 
 # Other Considerations
 Our Rail Kit models can be printed in many different filament colors; for EGIL's Les Paul Music Tech Camp @ WPI, we've used a vaiety of different colors including glow-in-the-dark filament! The 3D-printed Rail can be a useful musical instrument, and allowing students to choose their own color can help them personalize their instrument. Additionally, with some effort, the .stl file we've provided can be modified to allow students to etch their name into one side. 
