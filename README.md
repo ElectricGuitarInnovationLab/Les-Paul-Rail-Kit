@@ -1,9 +1,8 @@
 # Les-Paul-Rail-Kit
-a DIY 3D-printable kit a la Les Paul's Rail
-developed and maintain by the Electric Guitar Innovation Lab
+a DIY 3D-printable kit a la Les Paul's Rail developed and maintain by the Electric Guitar Innovation Lab <br>
 http://electricguitarinnovationlab.org/lespaul 
-research sponsored by the Les Paul Foundation
-to learn more about Les Paul's life of innovation, visit http://les-paul.com
+research sponsored by the Les Paul Foundation <br>
+to learn more about Les Paul's life of innovation, visit http://les-paul.com <br>
 
 #Background
 The Les Paul Rail kit was inspired by a piece of railroad rail found by Les Paul. The artist and his friends took a 2 foot long piece of discarded rail and attached a microphone from a phone and a piece of guitar string along the length of the rail. The rail was able to sustain notes for a large amount of time as Les discovered when experimenting with his contraption. Though the rail was not a practical guitar, it proved a great way to experiment with tuning and notes played on the guitar (The Electric Guitar, 2016).
