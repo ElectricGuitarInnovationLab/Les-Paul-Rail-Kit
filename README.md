@@ -24,23 +24,22 @@ The kit given to the students should include the following:
 The instructions given to the students in the rail kit are as follows:
 
 <b>1.</b> The support material is the thin material on the side of the rail. This can be discarded.Remove the support material from the rail. This can be done using pliers, a flathead screwdriver, or anything on hand.<br>
-<b>1.</b> Remove the top washer from the tuner by twisting it counter-clockwise. <br>
-<b>1.</b> Insert the tuner into the bottom of the holes on the opposite side of the rail with the bridge. <br>
-<b>1.</b> Secure it with the top by inserting it back on the tuner and twisting clockwise. Do this for both tuners.<br>
-3.String the rail by placing the strings through the holes on the rail until the ball end of the guitar string rests on the back of the bridge.<br>
-4a.Insert the string all the way into the hole in the tuner and twist the string around the metal part. <br>
-4b.Twist the knob on the tuner clockwise until the string experiences some tension; this locks the string in place. Do this for both strings.<br>
-5.Feel free to use any tuner application to experiment with what notes are being played by either string! Free tuner apps include Pitchlab, Pano Tuner, and Martin Tuner.
+<b>2a.</b> Remove the top washer from the tuner by twisting it counter-clockwise. <br>
+<b>2b.</b> Insert the tuner into the bottom of the holes on the opposite side of the rail with the bridge. <br>
+<b>2c.</b> Secure it with the top by inserting it back on the tuner and twisting clockwise. Do this for both tuners.<br>
+<b>3.</b> String the rail by placing the strings through the holes on the rail until the ball end of the guitar string rests on the back of the bridge.<br>
+<b>4a.</b> Insert the string all the way into the hole in the tuner and twist the string around the metal part. <br>
+<b>4b.</b> Twist the knob on the tuner clockwise until the string experiences some tension; this locks the string in place. Do this for both strings.<br>
+<b>5.</b> Feel free to use any tuner application to experiment with what notes are being played by either string! Free tuner apps include Pitchlab, Pano Tuner, and Martin Tuner.
 
 # Instructions for Teachers Supervising Printing the 3D Rails
 In most cases, you can download the Rail .gcode file from our repository and upload that to your 3D printer software; we used https://www.3dprinteros.com to interface with a LulzBot TAZ 6 printer for the first batch of rails, printing at 10% infill. <br>
 
 Alternately, if you'd like to involve students in the 3D printing process:<br>
-1.	Upload the Rail .stl file to https://www.3dprinteros.com (or other 3D printer software)
-2.	Adjust the layout of the model so that it optimally fits within the printer.
-3.	Once the layout has been finalized, select the <em>Slice</em> button to adjust the slice settings.
-a.	We found 10% infill and 1mm wall thickness gave a good tradeoff between print resolution and print time.
-4.	Finally, once the slice has been created and saved, it can be sent to the printer.
+<b>1.</b> Upload the Rail .stl file to https://www.3dprinteros.com (or other 3D printer software)
+<b>3.</b> Adjust the layout of the model so that it optimally fits within the printer.
+<b>4.</b> Once the layout has been finalized, select the <em>Slice</em> button to adjust the slice settings. We found 10% infill and 1mm wall thickness gave a good tradeoff between print resolution, stability, and print time.
+<b>5.</b> Finally, once the slice has been created and saved, it can be sent to the printer.
 
 # Other Considerations
 Models can be printed in many different filament colors; for EGIL's Les Paul Music Tech Camp @ WPI, we've used a vaiety of different colors including glow-in-the-dark filament! The 3D-printed Rail can be a useful musical instrument, and allowing students to choose their own color can help them personalize their instrument. Additionally, with some effort, the .stl file we've provided can be modified to allow students to etch their name into one side. 
