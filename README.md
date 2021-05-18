@@ -23,10 +23,10 @@ The kit given to the students should include the following:
 # Assembly Instructions for Students
 The instructions given to the students in the rail kit are as follows:
 
-1.The support material is the thin material on the side of the rail. This can be discarded.Remove the support material from the rail. This can be done using pliers, a flathead screwdriver, or anything on hand.<br>
-2a.Remove the top washer from the tuner by twisting it counter-clockwise. <br>
-2b.Insert the tuner into the bottom of the holes on the opposite side of the rail with the bridge. <br>
-2c.Secure it with the top by inserting it back on the tuner and twisting clockwise. Do this for both tuners.<br>
+<b>1.</b> The support material is the thin material on the side of the rail. This can be discarded.Remove the support material from the rail. This can be done using pliers, a flathead screwdriver, or anything on hand.<br>
+<b>1.</b> Remove the top washer from the tuner by twisting it counter-clockwise. <br>
+<b>1.</b> Insert the tuner into the bottom of the holes on the opposite side of the rail with the bridge. <br>
+<b>1.</b> Secure it with the top by inserting it back on the tuner and twisting clockwise. Do this for both tuners.<br>
 3.String the rail by placing the strings through the holes on the rail until the ball end of the guitar string rests on the back of the bridge.<br>
 4a.Insert the string all the way into the hole in the tuner and twist the string around the metal part. <br>
 4b.Twist the knob on the tuner clockwise until the string experiences some tension; this locks the string in place. Do this for both strings.<br>
