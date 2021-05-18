@@ -23,16 +23,24 @@ The kit given to the students should include the following:
 # Assembly Instructions for Students
 The instructions given to the students in the rail kit are as follows:
 
-1.	Remove the support material from the rail. This can be done using pliers, a flathead screwdriver, or anything on hand. The support material is the thin material on the side of the rail. This can be discarded.
-2.	String the rail by placing the strings through the holes on the rail until the nut at the end of the guitar string rests on the back of the bridge.
-3.	Remove the top from the tuner by twisting it counter-clockwise. Insert the tuner into the bottom of the holes on the opposite side of the rail with the bridge. Secure it with the top by inserting it back on the tuner and twisting clockwise. Do this for both tuners.
-4.	Insert the string into the tuner and twist the string around the metal part. Twist the knob clockwise until the string experiences some tension. Do this for both strings.
+1.	The support material is the thin material on the side of the rail. This can be discarded.Remove the support material from the rail. This can be done using pliers, a flathead screwdriver, or anything on hand. 
+2a.	Remove the top washer from the tuner by twisting it counter-clockwise. 
+2b. Insert the tuner into the bottom of the holes on the opposite side of the rail with the bridge. 
+2c. Secure it with the top by inserting it back on the tuner and twisting clockwise. Do this for both tuners.
+3.	String the rail by placing the strings through the holes on the rail until the ball end of the guitar string rests on the back of the bridge.
+4a.	Insert the string all the way into the hole in the tuner and twist the string around the metal part. 
+4b. Twist the knob on the tuner clockwise until the string experiences some tension; this locks the string in place. Do this for both strings.
 5.	Feel free to use any tuner application to experiment with what notes are being played by either string! Free tuner apps include Pitchlab, Pano Tuner, and Martin Tuner.
-Instructions for the supervisor printing the 3D rails using 3DPrinterOS are as follows:
-1.	Upload the model in an .stl file format.
-2.	Once the file has uploaded, adjust the layout of the model so that it optimally fits within the printer.
-3.	Once the layout has been finalized, select the slice button to adjust the slice settings.
+
+# Instructions for Teachers Supervising Printing the 3D Rails
+In most cases, you can download the Rail .gcode file from our repository and upload that to your 3D printer software; we used https://www.3dprinteros.com to interface with a LulzBot TAZ 6 printer for the first batch of rails, printing at 10% infill. <br>
+
+Alternately, if you'd like to involve students in the 3D printing process:<br>
+1.	Upload the Rail .stl file to https://www.3dprinteros.com (or other 3D printer software)
+2.	Adjust the layout of the model so that it optimally fits within the printer.
+3.	Once the layout has been finalized, select the <em>Slice</em> button to adjust the slice settings.
 a.	We found 10% infill and 1mm wall thickness gave a good tradeoff between print resolution and print time.
 4.	Finally, once the slice has been created and saved, it can be sent to the printer.
-Preferences, such as color, can be printed with respect to each student. Foisie’s Makerspace has many different filament colors that can be used to print the rail. If students in Manzo’s summer camp would like to choose their own color, we think that it would be a good idea to help personalize their instrument.
-Although we believe this is the end to the project, more could be done in another seven weeks. For example, other teams could think of more ways to personalize the instrument for students, such as easy ways to write their name on the rail. Others could be creating new versions of the rail and making it easier for younger kids to assemble.
+
+# Other Considerations
+Models can be printed in many different filament colors; for EGIL's Les Paul Music Tech Camp @ WPI, we've used a vaiety of different colors including glow-in-the-dark filament! The 3D-printed Rail can be a useful musical instrument, and allowing students to choose their own color can help them personalize their instrument. Additionally, with some effort, the .stl file we've provided can be modified to allow students to etch their name into one side. 
