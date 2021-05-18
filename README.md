@@ -11,10 +11,10 @@ The goal of this project was to create a "Rail Kit" for Professor Manzo’s <b>L
 
 # The Rail Kit
 The kit given to the students should include the following:
-<b>1.</b> 3D-Printed Rail (model included in kit; use with any 3D-printer)
-<b>2.</b> 2 Tuners from a set of Sperzel All-Long-Post Six-in-line locking guitar tuners with standard buttons (any color) http://www.sperzel.com/ 
-<b>3.</b>  2 guitar strings from a set of standard electric guitar strings; 1 and 6 strings from a set of D'Addario XL110 strings used https://www.daddario.com/products/guitar/electric-guitar/xl-nickel/exl110-nickel-wound-regular-light-10-46/
-<b>4.</b>  Assembly instructions for students (below)
+<b>1.</b> 3D-Printed Rail (model included in kit; use with any 3D-printer)<br>
+<b>2.</b> 2 Tuners from a set of Sperzel All-Long-Post Six-in-line locking guitar tuners with standard buttons (any color) http://www.sperzel.com/ <br>
+<b>3.</b>  2 guitar strings from a set of standard electric guitar strings; 1 and 6 strings from a set of D'Addario XL110 strings used https://www.daddario.com/products/guitar/electric-guitar/xl-nickel/exl110-nickel-wound-regular-light-10-46/<br>
+<b>4.</b>  Assembly instructions for students (below)<br>
 
 # Assembly Instructions for Students
 The instructions given to the students in the rail kit are as follows:
