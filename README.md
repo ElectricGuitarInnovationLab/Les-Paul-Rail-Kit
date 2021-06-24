@@ -10,7 +10,7 @@ The Les Paul Rail kit was inspired by an experiment Les Paul conducted in his yo
 The goal of this project was to create a "Rail Kit" for Professor Manzo’s <b>Les Paul: Experiencing Innovation Summer Camp</b> where students could create their own rail-type musical instrument. Our kit contains a 3D printable rail that allows the camp students to learn about the timbre by comparing 3D printing filaments to the existing rail, string tuning and tension, how to 3D-print using a 3D model, and how 3D printing differs from machining. Students assemble the kit themselves and use it in their own music-making! Additional activities in the camp that accompany this one include the creation of a simple pickup and an amplifier. 
 
 # The Rail Kit
-Each kit given to the students should include the following components:<br>
+Each Rail Kit should include the following components:<br>
 <b>1.</b> one 3D-Printed Rail (model included in kit; use with any 3D-printer)<br>
 <b>2.</b> two tuners from a set of Sperzel All-Long-Post Six-in-line locking guitar tuners with standard buttons (any color) http://www.sperzel.com/ <br>
 <b>3.</b>  two guitar strings from a set of standard electric guitar strings; 1 and 6 strings from a set of D'Addario XL110 strings used https://www.daddario.com/products/guitar/electric-guitar/xl-nickel/exl110-nickel-wound-regular-light-10-46/<br>
@@ -36,4 +36,4 @@ Alternately, if you'd like to involve students in the 3D printing process:<br>
 <b>4.</b> Finally, once the slice has been created and saved, it can be sent to the printer. <br>
 
 # Other Considerations
-Our Rail Kit models can be printed in many different filament colors; for EGIL's Les Paul Music Tech Camp @ WPI, we've used a vaiety of different colors including glow-in-the-dark filament! The 3D-printed Rail can be a useful musical instrument, and allowing students to choose their own color can help them personalize their instrument. Additionally, with some effort, the .stl file we've provided can be modified to allow students to etch their name into one side. 
+Our Rail Kit models can be printed in many different filament colors; for EGIL's Les Paul Music Tech Camp @ WPI, we've used a variety of different colors including glow-in-the-dark filament! The 3D-printed Rail can be a useful musical instrument, and allowing students to choose their own color can help them personalize their instrument. Additionally, with some effort, the .stl file we've provided can be modified to allow students to etch their name into one side. 
