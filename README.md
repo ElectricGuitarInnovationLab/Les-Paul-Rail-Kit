@@ -1,6 +1,7 @@
 # the Les Paul Rail Kit
 a DIY 3D-printable kit a la Les Paul's Rail developed and maintain by the Electric Guitar Innovation Lab 
-http://electricguitarinnovationlab.org/lespaul  <br>
+http://electricguitarinnovationlab.org/lespaul  <br><br>
+
 This research was sponsored by the Les Paul Foundation; to learn more about Les Paul's life of innovation, visit http://les-paul.com <br>
 
 # Background
