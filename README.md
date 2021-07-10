@@ -39,7 +39,7 @@ Alternately, if you'd like to involve students in the 3D printing process:<br>
 Our Rail Kit models can be printed in many different filament colors; for EGIL's Les Paul Music Tech Camp @ WPI, we've used a variety of different colors including glow-in-the-dark filament! The 3D-printed Rail can be a useful musical instrument, and allowing students to choose their own color can help them personalize their instrument. Additionally, with some effort, the .stl file we've provided can be modified to allow students to etch their name into one side. 
 
 # Project Personnel
-* V.J. Manzo, Founding Director and PI of the Electric Guitar Innovation Lab; PI, WPI Faculty
+* V.J. Manzo, WPI Faculty and PI of the Electric Guitar Innovation Lab
 * Noah Darveau, WPI undergraduate student
 * Alexis Nichols, WPI undergraduate student
 * Siddhant Damle, WPI undergraduate student
