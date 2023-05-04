@@ -5,7 +5,7 @@ http://electricguitarinnovationlab.org/lespaul  <br>
 This research was sponsored by the Les Paul Foundation; to learn more about Les Paul's life of innovation, visit http://les-paul.com <br>
 
 # Background
-The Les Paul Rail kit was inspired by an experiment Les Paul conducted in his youth, where he and his friends made a simple musical instrument with a discarded piece of rail, a piece of guitar string and some nails, and a microphone made from his mother's telephone. Though the rail was not a practical guitar, it proved a great way to experiment with tuning and notes played on the guitar. 
+The Les Paul Rail kit was inspired by an experiment Les Paul conducted in his youth, where he and his friends made a simple musical instrument with a discarded piece of rail, a guitar string, and some railroad spikes, and a transducer made from his mother's telephone. Though the rail was not a practical guitar, it was an influential experiment in Les' life as evidenced in his later work with solidbody electric guitars.  
 
 # Project Goals
 The goal of this project was to create a "Rail Kit" for Professor Manzo’s <b>Les Paul: Experiencing Innovation Summer Camp</b> where students could create their own rail-type musical instrument. Our kit contains a 3D printable rail that allows the camp students to learn about the timbre by comparing 3D printing filaments to the existing rail, string tuning and tension, how to 3D-print using a 3D model, and how 3D printing differs from machining. Students assemble the kit themselves and use it in their own music-making! Additional activities in the camp that accompany this one include the creation of a simple pickup and an amplifier. 
