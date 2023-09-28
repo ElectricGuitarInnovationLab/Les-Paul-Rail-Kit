@@ -23,8 +23,9 @@ Each Rail Kit should include the following components:<br>
 <b>2b.</b> Insert the tuner into the bottom of one hole on the opposite side of the rail with the bridge. <br>
 <b>2c.</b> Secure the washer with the top of the tuner by inserting it back on the tuner and twisting clockwise. Do this for both tuners.<br>
 <b>3.</b> String the rail by placing the strings through the holes on the rail until the ball end of the guitar string rests on the back of the bridge.<br>
-<b>4a.</b> Insert the string all the way into the hole in the tuner and twist the string around the metal part. <br>
-<b>4b.</b> Twist the knob on the tuner clockwise until the string experiences some tension; this locks the string in place. Do this for both strings.<br>
+<b>4a.</b> Insert the string all the way into the hole in the metal tuner post, and twist the excess string around the post to bend it slightly. <br>
+<b>4b.</b> Twist the knob on the back of the tuner clockwise until the string experiences some tension; twisting this knob causes the tuner to bite down on the string, which locks the string in place. Do this for both strings.<br>
+<b>4c.</b> Use a wire cutter to trim the excess string that remains after the tuner post.<br>
 <b>5.</b> Feel free to use any tuner application to experiment with what notes are being played by either string! Free tuner apps include Pitchlab, Pano Tuner, and Martin Tuner.
 
 # Instructions for Teachers Supervising Printing the 3D Rails
