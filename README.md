@@ -1,6 +1,5 @@
 # the Les Paul Rail Kit
-a DIY 3D-printable kit a la Les Paul's Rail developed and maintain by the Electric Guitar Innovation Lab <br>
-http://electricguitarinnovationlab.org/lespaul  <br>
+a DIY 3D-printable kit a la Les Paul's Rail developed and maintain by the [RATLab](http://ratlab.wpi.edu) through [the Electric Guitar Innovation Lab](http://electricguitarinnovationlab.org/lespaul)(EGIL) at WPI<br>
 
 This research was sponsored by the Les Paul Foundation; to learn more about Les Paul's life of innovation, visit http://les-paul.com <br>
 
@@ -29,16 +28,15 @@ Each Rail Kit should include the following components:<br>
 <b>5.</b> Feel free to use any tuner application to experiment with what notes are being played by either string! Free tuner apps include Pitchlab, Pano Tuner, and Martin Tuner.
 
 # Instructions for Teachers Supervising Printing the 3D Rails
-In most cases, you can download the Rail .gcode file from our repository and upload that to your 3D printer software; we used https://www.3dprinteros.com to interface with a LulzBot TAZ 6 printer for the first batch of rails, printing at 10% infill. <br>
-
-Alternately, if you'd like to involve students in the 3D printing process:<br>
-<b>1.</b> Upload the Rail .stl file to https://www.3dprinteros.com (or other 3D printer software) <br>
-<b>2.</b> Adjust the layout of the model so that it optimally fits within the printer. <br>
+We recommended sharing the story of Les Paul and the Rail with students and then showing them a view of the 3D model we've made of the rail from [this webpage](https://mywpi165.autodesk360.com/g/shares/SH286ddQT78850c0d8a43213ee636f731053) we've prepared.<br>
+Then follow these steps to print this model. 
+<b>1.</b> Download the 3D model "the Rail.stl" from this repository by clicking the "Code" button on this page and selecting "Download Zip"; unzip the file you downloaded to reveal the .stl model file. <br>
+<b>2.</b> Import the model into your 3D printer's printing "slicing" program and adjust the layout of the model so that it optimally fits within the printer. <br>
 <b>3.</b> Once the layout has been finalized, select the <em>Slice</em> button to adjust the slice settings. We found 10% infill and 1mm wall thickness gave a good tradeoff between print resolution, stability, and print time. <br>
-<b>4.</b> Finally, once the slice has been created and saved, it can be sent to the printer. <br>
+<b>4.</b> Finally, once the slice has been created and saved, the gcode it produces can be sent to the printer for printing. <br>
 
 # Other Considerations
-Our Rail Kit models can be printed in many different filament colors; for EGIL's Les Paul Music Tech Camp @ WPI (http://lespaulcamp.org), we've used a variety of different colors including glow-in-the-dark filament! The 3D-printed Rail can be a useful musical instrument, and allowing students to choose their own color can help them personalize their instrument. Additionally, with some effort, the .stl file we've provided can be modified to allow students to etch their name into one side. 
+Our Rail Kit models can be printed in many different filament colors; for EGIL's [Les Paul Music Tech Camp](http://lespaulcamp.org) @ WPI, we've used a variety of different colors including glow-in-the-dark filament! The 3D-printed Rail can be a useful musical instrument, and allowing students to choose their own color can help them personalize their instrument. Additionally, with some effort, the .stl file we've provided can be modified to allow students to etch their name into one side. 
 
 # Print Settings
 Infill Percentage: 10<br>
@@ -51,7 +49,7 @@ Note: previous versions of this model included lettering on the side, which has 
 These models are an open community effort and released here under the following Creative Commons license: Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) https://creativecommons.org/licenses/by-nc/4.0/deed.ia The contents of this repository are in development and are made available through the aforementioned license without any warranty whatsoever.
 
 # Project Personnel
-* V.J. Manzo, WPI Faculty and PI of the Electric Guitar Innovation Lab
+* V.J. Manzo, WPI Faculty and Founding PI and Director of the RATLab
 * Noah Darveau, WPI undergraduate student
 * Alexis Nichols, WPI undergraduate student
 * Siddhant Damle, WPI undergraduate student
