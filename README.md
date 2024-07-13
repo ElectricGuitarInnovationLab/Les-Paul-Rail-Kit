@@ -1,5 +1,5 @@
 # the Les Paul Rail Kit
-a DIY 3D-printable kit a la Les Paul's Rail developed and maintain by the [RATLab](http://ratlab.wpi.edu) through [the Electric Guitar Innovation Lab](http://electricguitarinnovationlab.org/lespaul)(EGIL) at WPI<br>
+a DIY 3D-printable kit inspired by Les Paul's Rail—developed and maintain by the [RATLab](http://ratlab.wpi.edu) through ongoing projects about Les Paul, which are being explored at [the Electric Guitar Innovation Lab](http://electricguitarinnovationlab.org/lespaul) (EGIL).<br>
 
 This research was sponsored by the Les Paul Foundation; to learn more about Les Paul's life of innovation, visit http://les-paul.com <br>
 
@@ -11,16 +11,16 @@ The goal of this project was to create a "Rail Kit" for our [Les Paul: Experienc
 
 # The Rail Kit
 Here are the components you'll need:<br>
-<b>1.</b> one 3D-Printed Rail (model included in this repository; use with any 3D-printer)<br>
-<b>2.</b> two tuners from a set of Sperzel All-Long-Post six-in-line locking guitar tuners with standard #5 buttons (any color), which can be ordered directly from [Sperzel](http://www.sperzel.com/) <br>
-<b>3.</b>  two guitar strings from a set of standard electric guitar strings; 1 and 6 strings from a set of, for example, [D'Addario XL110 strings](https://www.daddario.com/products/guitar/electric-guitar/xl-nickel/exl110-nickel-wound-regular-light-10-46/)<br>
-<b>4.</b>  one set of Assembly Instructions for Students (below)<br>
-<b>5.</b> Optionally, we recommend a large-diameter tuning peghead hand reamer (roughly .312" to .625") to widen tuner holes if needed
+<b>1.</b> One 3D-Printed Rail (model included in this repository; use with any 3D-printer)<br>
+<b>2.</b> Two tuners from a set of Sperzel All-Long-Post six-in-line locking guitar tuners with standard #5 buttons (any color), which can be ordered directly from [Sperzel](http://www.sperzel.com/) <br>
+<b>3.</b>  Two guitar strings from a set of standard electric guitar strings; 1 and 6 strings from a set of, for example, [D'Addario XL110 strings](https://www.daddario.com/products/guitar/electric-guitar/xl-nickel/exl110-nickel-wound-regular-light-10-46/)<br>
+<b>4.</b>  One set of Assembly Instructions for Students (below)<br>
+<b>5.</b> Optionally, we recommend a large-diameter tuning peghead hand reamer (roughly .312" to .625") to widen tuner holes if needed<br>
 <b>6.</b> Optionally, a small [contact microphone or piezo pickup](https://www.amazon.com/s?k=guitar+pickup+piezo) can be stuck underneath the strings to amplify the instrument. In our camp, we use a pickup with a standard [1/4" guitar cable](https://www.amazon.com/s?k=guitar+cable) and a small amplifier like [this](https://danelectro.com/accessories/honeytone-mini-amp/)
 
 # Instructions for Teachers Supervising Printing the 3D Rails
 We recommended sharing the [story of Les Paul and the Rail](https://www.youtube.com/watch?v=DTR_psHQs4M) with students and then showing them a view of the 3D model we've made of the rail from [this webpage](https://mywpi165.autodesk360.com/g/shares/SH286ddQT78850c0d8a43213ee636f731053) we've prepared.<br>
-Then follow these steps to print this model. 
+Then follow these steps to print this model. <br>
 <b>1.</b> Download the 3D model "the Rail.stl" from this repository by clicking the "Code" button on this page and selecting "Download Zip"; unzip the file you downloaded to reveal the .stl model file. <br>
 <b>2.</b> Import the model into your 3D printer's printing "slicing" program and adjust the layout of the model so that it optimally fits within the printer. <br>
 <b>3.</b> Once the layout has been finalized, select the <em>Slice</em> button to adjust the slice settings. We found 10% infill and 1mm wall thickness gave a good tradeoff between print resolution, stability, and print time. <br>
