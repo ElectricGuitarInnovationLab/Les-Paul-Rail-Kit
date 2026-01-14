@@ -55,3 +55,10 @@ These models are an open community effort and released here under the following 
 * Noah Darveau, WPI undergraduate student
 * Alexis Nichols, WPI undergraduate student
 * Siddhant Damle, WPI undergraduate student
+
+
+## Contributing
+
+Navigate to the [CONTRIBUTING.md](./CONTRIBUTING.md) file for guidelines on how to contribute to the project.
+
+Music, audio, and other creative works produced using the Rail Kit are not considered Contributions and remain the sole property of their creators.
