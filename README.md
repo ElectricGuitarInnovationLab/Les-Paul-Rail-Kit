@@ -48,7 +48,7 @@ Support on build plate (not everywhere)<br><br>
 Note: previous versions of this model included lettering on the side, which has been removed since version 1.1
 
 # License
-These models are an open community effort and released here under the following Creative Commons license: Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) https://creativecommons.org/licenses/by-nc/4.0/deed.ia The contents of this repository are in development and are made available through the aforementioned license without any warranty whatsoever.
+These models are an open community effort and released here under the following Creative Commons license: Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) https://creativecommons.org/licenses/by-nc/4.0/deed.ia The contents of this repository are in development and are made available through the aforementioned license without any warranty whatsoever. For license inquiries, contact: license@vjmanzo.com
 
 # Project Personnel
 * V.J. Manzo, WPI Faculty and Founding PI and Director of the RATLab
